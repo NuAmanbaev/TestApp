@@ -12,7 +12,7 @@ public class ReverseStringTest {
     }
     @Test
     public void reverseWithDigits(){
-        Assert.assertEquals("aza", ReverseString.reverseString("aza"));
+        Assert.assertEquals("asdasd", ReverseString.reverseString("aza"));
         System.out.println("reverseStringDigits pass");
     }
 
